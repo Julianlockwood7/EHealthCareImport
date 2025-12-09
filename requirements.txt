@@ -14,7 +14,7 @@ colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-Django==2.1.5
+Django==4.2.27
 django-crispy-forms==1.9.2
 djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
@@ -97,7 +97,7 @@ seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
-sqlparse==0.3.1
+sqlparse==0.5.4
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.2.1
@@ -110,7 +110,7 @@ toml==0.10.1
 tornado==6.0.4
 tqdm==4.46.1
 traitlets==4.3.3
-urllib3==1.25.9
+urllib3==2.6.0
 wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
